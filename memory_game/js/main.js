@@ -121,7 +121,7 @@ function  checkForMatch(){
   			alert("You found a match!");
   	 	} 		
   	 	else{
-  	 		alert("You have exhausted your two clicks by clicking the same card. Press reset to start over");
+  	 		alert("You have exhausted your two clicks by clicking the same card. Click refresh to start over.");
   	 	}
 	} 
 	else {
